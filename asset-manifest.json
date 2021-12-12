@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AllanHernan77/reduxgame/static/css/main.daa24250.chunk.css",
+    "main.js": "/AllanHernan77/reduxgame/static/js/main.e8be8f78.chunk.js",
+    "main.js.map": "/AllanHernan77/reduxgame/static/js/main.e8be8f78.chunk.js.map",
+    "runtime-main.js": "/AllanHernan77/reduxgame/static/js/runtime-main.297f3625.js",
+    "runtime-main.js.map": "/AllanHernan77/reduxgame/static/js/runtime-main.297f3625.js.map",
+    "static/js/2.07334c5d.chunk.js": "/AllanHernan77/reduxgame/static/js/2.07334c5d.chunk.js",
+    "static/js/2.07334c5d.chunk.js.map": "/AllanHernan77/reduxgame/static/js/2.07334c5d.chunk.js.map",
+    "static/js/3.1fd9d674.chunk.js": "/AllanHernan77/reduxgame/static/js/3.1fd9d674.chunk.js",
+    "static/js/3.1fd9d674.chunk.js.map": "/AllanHernan77/reduxgame/static/js/3.1fd9d674.chunk.js.map",
+    "index.html": "/AllanHernan77/reduxgame/index.html",
+    "static/css/main.daa24250.chunk.css.map": "/AllanHernan77/reduxgame/static/css/main.daa24250.chunk.css.map",
+    "static/js/2.07334c5d.chunk.js.LICENSE.txt": "/AllanHernan77/reduxgame/static/js/2.07334c5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.297f3625.js",
+    "static/js/2.07334c5d.chunk.js",
+    "static/css/main.daa24250.chunk.css",
+    "static/js/main.e8be8f78.chunk.js"
+  ]
+}
